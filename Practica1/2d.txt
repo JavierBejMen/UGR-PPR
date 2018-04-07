@@ -1,0 +1,67 @@
+Floyd_2d:
+input40
+time: 0.000621259
+input80
+time: 0.00476646
+input160
+time: 0.00386
+input220
+time: 0.071335
+input320
+time: 0.0392295
+input420
+time: 0.294926
+input520
+time: 0.130553
+input620
+time: 0.183131
+input720
+time: 1.34814
+input920
+time: 2.89111
+input1200
+time: 1.51169
+input1400
+time: 2.39115
+input1500
+time: 4.05423
+Floyd_1d:
+input40
+Tiempo gastado= 0.000226021
+
+input80
+Tiempo gastado= 0.00125504
+
+input160
+Tiempo gastado= 0.00547004
+
+input220
+Tiempo gastado= 0.0144541
+
+input320
+Tiempo gastado= 0.177374
+
+input420
+Tiempo gastado= 0.0634601
+
+input520
+Tiempo gastado= 0.169791
+
+input620
+Tiempo gastado= 0.19761
+
+input720
+Tiempo gastado= 1.39859
+
+input920
+Tiempo gastado= 0.650968
+
+input1200
+Tiempo gastado= 6.91786
+
+input1400
+Tiempo gastado= 7.03458
+
+input1500
+Tiempo gastado= 7.85788
+
